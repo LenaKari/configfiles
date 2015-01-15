@@ -21,5 +21,6 @@
 ##Syntax tools and formatting
 - [CSS](vim-css3-syntax )
 - [Clojure](https://github.com/guns/vim-clojure-static)
-- [mustache and handlebars mode](https://github.com/mustache/vim-mustache-handlebars)
+- [Javascript](https://github.com/jelera/vim-javascript-syntax)
+- [Mustache and Handlebars](https://github.com/mustache/vim-mustache-handlebars)
 - [SCSS](https://github.com/cakebaker/scss-syntax.vim)
