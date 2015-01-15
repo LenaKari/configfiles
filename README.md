@@ -1,5 +1,4 @@
 # My configuration for vim, tmux and zsh
-----------------------------------------
 
 
 1. Place the dot files into your home directory.
