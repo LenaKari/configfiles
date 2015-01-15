@@ -3,9 +3,9 @@
 
 1. Place the dot files into your home directory.
 
-2. Create a .vim folder in your home directory.
+2. Create .vim/ in your home directory.
 
-3. Within .vim/, create a folder called color. This is where you will put any color themes you use. I use: [Monokai](https://github.com/tomasr/molokai)
+3. Create color/ within vim/. This is where you will put any color themes you use. I use Monokai, which is included. You'll need to updated the .vimrc if you decide to use a different theme.
 
 4. Install [Pathogen](https://github.com/tpope/vim-pathogen), [Vundle](https://github.com/gmarik/Vundle.vim), or a similar Vim plugin manager.
 
