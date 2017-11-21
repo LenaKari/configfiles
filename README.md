@@ -12,15 +12,21 @@
 5. Install **ALL** the plugins!
 
 
-##Plugins I use:
+## Plugins/formatting I use:
 - [Ctrlp](https://github.com/kien/ctrlp.vim)
 - [NERD Commenter](https://github.com/scrooloose/nerdcommenter)
 - [NERDTree](https://github.com/scrooloose/nerdtree)
-- [tComment](https://github.com/tomtom/tcomment_vim)
-
-##Syntax tools and formatting
-- [CSS](vim-css3-syntax )
-- [Clojure](https://github.com/guns/vim-clojure-static)
-- [Javascript](https://github.com/jelera/vim-javascript-syntax)
-- [Mustache and Handlebars](https://github.com/mustache/vim-mustache-handlebars)
-- [SCSS](https://github.com/cakebaker/scss-syntax.vim)
+- [tagbar](https://github.com/majutsushi/tagbar)
+- [Tern for Vim](https://github.com/ternjs/tern_for_vim)
+- [UltiSnips](https://github.com/SirVer/ultisnips)
+- [vim-airlines](https://github.com/vim-airline/vim-airline)
+- [vim-airline-themes](https://github.com/vim-airline/vim-airline-themes)
+- [vim-colorschemes](https://github.com/flazz/vim-colorschemes)
+- [vim-devicons](https://github.com/ryanoasis/vim-devicons)
+- [vim-javascript](https://github.com/pangloss/vim-javascript)
+- [vim-javascript-syntax](https://github.com/jelera/vim-javascript-syntax)
+- [vim-jsx](https://github.com/mxw/vim-jsx)
+- [vim-less](https://github.com/groenewege/vim-less)
+- [vim-nerdtree-syntax-highlight](https://github.com/tiagofumo/vim-nerdtree-syntax-highlight)
+- [vim-startify](https://github.com/mhinz/vim-startify)
+- [vim-surround](https://github.com/tpope/vim-surround)
